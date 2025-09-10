@@ -1,4 +1,4 @@
-      ‼️‼️‼️‼️‼️‼️‼️ EM DESENOLVIMENTO ‼️‼️‼️‼️‼️‼️‼️‼️‼️
+:construction: EM DESENVOLVIMENTO :construction:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
