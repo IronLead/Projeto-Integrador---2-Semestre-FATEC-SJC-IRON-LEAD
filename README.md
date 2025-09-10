@@ -1,4 +1,4 @@
-:construction: EM DESENVOLVIMENTO :construction:
+:construction: **EM DESENVOLVIMENTO** :construction:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
@@ -47,35 +47,35 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints
  
-📂 [*User story*]  ‼️ EM DESENVOLVIMENTO ‼️ 
+📂 [*User story*]  :construction: **EM DESENVOLVIMENTO** :construction:
 
-## 📌 Sprint 0. Concepção ‼️ EM DESENVOLVIMENTO ‼️ 
+## 📌 Sprint 0. Concepção :construction: **EM DESENVOLVIMENTO** :construction: 
 - :white_check_mark: Backlog do produto;
 - :white_check_mark: Reuniões 
 - :white_check_mark: GitHub estruturado com link disponibilizado;
 - :white_check_mark: Jira Software estruturado;
 - :white_check_mark: Slack Estruturado;
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
-## 📌 Sprint 1 ‼️ EM DESENVOLVIMENTO ‼️ 
+## 📌 Sprint 1 :construction: **EM DESENVOLVIMENTO** :construction: 
 - :white_check_mark: Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
 - :white_check_mark: Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
 - :white_check_mark: Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
 - :white_check_mark: Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
 
-## 📌 Sprint 2 ‼️ EM DESENVOLVIMENTO ‼️ 
+## 📌 Sprint 2 :construction: **EM DESENVOLVIMENTO** :construction: 
 - :white_check_mark: Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
 - :white_check_mark: Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
 - :white_check_mark: Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
 - :white_check_mark: Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
 - :white_check_mark: Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
       
-## 📌 Sprint 3 ‼️ EM DESENVOLVIMENTO ‼️  
+## 📌 Sprint 3 :construction: **EM DESENVOLVIMENTO** :construction:
 - :white_check_mark: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
 - :white_check_mark: Comparação visualmente municípios entre si para entender variações no desempenho de exportações
 - :white_check_mark: Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
 - :white_check_mark: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
       
-## 📌 Sprint 4 ‼️ EM DESENVOLVIMENTO ‼️ 
+## 📌 Sprint 4 :construction: **EM DESENVOLVIMENTO** :construction: 
 - :white_check_mark: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
 - :white_check_mark: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
 - :white_check_mark: Repositório final organizado e documentado para futuras manutenções
@@ -87,18 +87,18 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
 # *Base de Dados*  
-📂[Python/Pandas] ‼️ EM DESENVOLVIMENTO ‼️ 
+📂[Python/Pandas] :construction: **EM DESENVOLVIMENTO** :construction:
 
 # *Dashboard*
 
-📂[*Dashboard* executavel] ‼️ EM DESENVOLVIMENTO ‼️ 
+📂[*Dashboard* executavel] :construction: **EM DESENVOLVIMENTO** :construction:‼️ 
 
-# Documentação ‼️ EM DESENVOLVIMENTO ‼️ 
+# Documentação :construction: **EM DESENVOLVIMENTO** :construction:
 
 <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Documentação](https://acrobat.adobe.com/id/urn:aaid:sc:US:67e1adbb-aa4d-4266-8c32-0b90c5f32509) </p>
 <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Situação Problema](https://acrobat.adobe.com/id/urn:aaid:sc:US:3fd3e0cf-d477-44d3-a224-097578b7fd47)
 
-# Apresentação em *slide* ‼️ EM DESENVOLVIMENTO ‼️ 
+# Apresentação em *slide* :construction: **EM DESENVOLVIMENTO** :construction:
 
 <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d7a838d-d92c-42ce-88fb-60ecde01ee89)
 
@@ -111,13 +111,13 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
 * <img src="https://github.com/user-attachments/assets/894e292b-368d-4a89-ab7e-9aef6d239c98" width="40"/>  *VSCode*
 
-# Canais de comunicação ‼️ EM DESENVOLVIMENTO ‼️ 
+# Canais de comunicação :construction: **EM DESENVOLVIMENTO** :construction:
 
 * <img src="https://github.com/user-attachments/assets/d36e40b6-a450-49c3-a263-5bef20d380d3" width="40"/>  *Slack*
   
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
 
-# Serviços utilizados ‼️ EM DESENVOLVIMENTO ‼️ 
+# Serviços utilizados :construction: **EM DESENVOLVIMENTO** :construction: 
 
 <img src="https://github.com/user-attachments/assets/cb0a70ef-3813-4f61-97c1-b15eff2f2ded" width="60"/> [Estatísticas de Comércio Exterior em Dados Abertos](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
