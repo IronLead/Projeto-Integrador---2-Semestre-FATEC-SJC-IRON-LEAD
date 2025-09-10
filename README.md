@@ -30,7 +30,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # <h1 align="center"> Projeto
 
 # Objetivo 
- Desenvolver um dashboard no Power BI para analisar os dados do Comex Stat e identificar os cinco municípios com maior Valor Agregado (V.A.) na exportação nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos.
+Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
 
 # Resultado esperado
 O resultado será um painel interativo que destaque os municípios líderes em exportação, possibilitando a análise comparativa do desempenho entre 2023 e 2024. Isso ajudará a identificar tendências, variações no comércio exterior e apoiar a tomada de decisões estratégicas.
