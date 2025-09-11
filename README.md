@@ -95,8 +95,8 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Documentação :construction: **EM DESENVOLVIMENTO** :construction:
 
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Documentação](https://acrobat.adobe.com/id/urn:aaid:sc:US:67e1adbb-aa4d-4266-8c32-0b90c5f32509) </p>
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Situação Problema](https://acrobat.adobe.com/id/urn:aaid:sc:US:3fd3e0cf-d477-44d3-a224-097578b7fd47)
+<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Documentação]
+<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Situação Problema]
 
 # Apresentação em *slide* :construction: **EM DESENVOLVIMENTO** :construction:
 
