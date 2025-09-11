@@ -100,7 +100,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Apresentação em *slide* :construction: **EM DESENVOLVIMENTO** :construction:
 
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d7a838d-d92c-42ce-88fb-60ecde01ee89)
+<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação]
 
 # Tecnologias Utilizadas 
 
