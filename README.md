@@ -6,7 +6,7 @@
 #  Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
-#   *Project-Based Learning with Integrative Projects (API)*  󠁧󠁢󠁥🇺🇸
+#   *Project-Based Learning with Integrative Projects (API)*  󠁧󠁢󠁥🇺🇸 :construction: **EM DESENVOLVIMENTO** :construction:
 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
@@ -30,7 +30,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # <h1 align="center"> Projeto
 
 # Objetivo 
-Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
+Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
 
 # Resultado esperado
 Entrega de um dashboard interativo em Power BI com dados atualizados sobre cargas especiais e perigosas, permitindo análise por tipo de carga, modal, origem-destino e localização geográfica. A solução inclui scripts em Python, documentação técnica e relatório analítico para apoio a decisões estratégicas e políticas públicas.
