@@ -1,4 +1,5 @@
 :construction: **EM DESENVOLVIMENTO** :construction:
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
 </p>
@@ -14,7 +15,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # :dart: Índice
 * [Projeto](#Projeto)
 * [Objetivo](#Objetivo)
-* [Resultado esperado](#Resultado-esperado_🏆)
+* [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Base de Dados](#Base-de-Dados)
@@ -32,7 +33,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 # Objetivo 
 Desenvolver um dashboard interativo de Business Intelligence que consolide e apresente dados de movimentação de cargas especiais e perigosas, com base nos registros do IBAMA. A ferramenta deverá possibilitar a análise de indicadores estratégicos, como tipos de cargas transportadas, principais modais utilizados, origem e destino (matriz OD), além de métricas segmentadas por Estado e em nível nacional. O sistema visa facilitar a visualização e interpretação dos dados para apoiar a tomada de decisão, planejamento logístico e monitoramento ambiental relacionado ao transporte dessas cargas.
 
-# Resultado esperado 🏆
+# Resultado esperado
 Entrega de um dashboard interativo em Power BI com dados atualizados sobre cargas especiais e perigosas, permitindo análise por tipo de carga, modal, origem-destino e localização geográfica. A solução inclui scripts em Python, documentação técnica e relatório analítico para apoio a decisões estratégicas e políticas públicas.
 # Equipe
 
@@ -60,35 +61,35 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
 ## 📌 Sprint 1 
-- :black_square_button: Como cliente, solicito acessar às bases públicas para obter os dados necessários ao projeto.
-- :black_square_button: Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise.
-- :black_square_button: Como gestor, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.
-- :black_square_button: Como analista de dados, preciso definir como os dados serão consolidados e armazenados de forma eficiente.
-- :black_square_button: Como analista de dados, preciso criar uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
-- :black_square_button: Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.
-- :black_square_button: Como gestor, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
+- :black_square_button: acesso das bases públicas para obter os dados necessários ao projeto.
+- :black_square_button: Padronização dos formatos, remover erros e preparar os dados para análise.
+- :black_square_button: Ambiente de versionamento do projeto criado e bem estruturado para garantir controle e rastreabilidade.
+- :black_square_button: Definição dos dados serão consolidados e armazenados de forma eficiente.
+- :black_square_button: criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
+- :black_square_button: Desenvolvimento dos scripts que tratem e organizem os dados para alimentar o dashboard.
+- :black_square_button: Requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
   
 ## 📌 Sprint 2 
-- :black_square_button: Como usuário final, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução.
-- :black_square_button: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
-- :black_square_button: Como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística.
-- :black_square_button: Como analista de dados, preciso documentar os scripts Python usados na limpeza e modelagem dos dados.
+- :black_square_button: Visualização das primeiras telas do dashboard para acompanhar o andamento da solução.
+- :black_square_button: Identificação das cargas foram mais movimentadas para análise operacional.
+- :black_square_button: Mapeamento dos modais de transporte mais utilizados para avaliar a eficiência logística.
+- :black_square_button: Documentação dos scripts Python usados na limpeza e modelagem dos dados.
 
       
 ## 📌 Sprint 3 
-- :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
-- :black_square_button: Como cliente, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
-- :black_square_button: Como cliente, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
-- :black_square_button: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
-- :black_square_button:Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
+- :black_square_button: Entendimento dos principais fluxos de carga — origem e destino — para identificar padrões.
+- :black_square_button: Visualização dos gráficos como o volume de movimentações evoluiu ao longo dos anos.
+- :black_square_button: Empresas que mais declararam movimentações (RAPP) para análise de atuação no setor.
+- :black_square_button: Identificação das regiões com maior incidência de acidentes.
+- :black_square_button: correlação dos acidentes com a proximidade de pontos de parada e descanso.
 
 
       
 ## 📌 Sprint 4 
-- :black_square_button: Como usuário final, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
-- :black_square_button: Como usuário final, desejo que o dashboard final seja responsivo e funcional em qualquer dispositivo.
-- :black_square_button: Como gestor, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
-- :black_square_button: Como cliente, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
+- :black_square_button: Plataforma permitindo exportar e compartilhar os dados e análises com facilidade.
+- :black_square_button: Dashboard final responsivo e funcional em qualquer dispositivo.
+- :black_square_button: Repositório final organizado e documentado para garantir manutenções futuras.
+- :black_square_button: Apresentação final clara da solução para validar os resultados e aprovar a entrega.
 
 
 
