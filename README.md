@@ -58,31 +58,39 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Jira Software estruturado;
 - :white_check_mark: Slack Estruturado;
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
+  
 ## 📌 Sprint 1 :construction: **EM DESENVOLVIMENTO** :construction: 
-- :white_check_mark: Repositório GitHub estruturado e funcional para garantir o versionamento correto do projeto
-- :white_check_mark: Levantamento completo das ferramentas e da arquitetura do projeto para compreender os componentes técnicos envolvidos
-- :white_check_mark: Tarefas organizadas e visíveis via Jira para facilitar o monitoramento do progresso
-- :white_check_mark: Prévia dos dados em Excel para avaliar a estrutura e os campos relevantes antes da modelagem final
-
+- :black_square_button: Como cliente, solicito acessar às bases públicas para obter os dados necessários ao projeto.
+- :black_square_button: Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise.
+- :black_square_button: Como gestor, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.
+- :black_square_button: Como analista de dados, preciso definir como os dados serão consolidados e armazenados de forma eficiente.
+- :black_square_button: Como analista de dados, preciso criar uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
+- :black_square_button: Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.
+- :black_square_button: Como gestor, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
+  
 ## 📌 Sprint 2 :construction: **EM DESENVOLVIMENTO** :construction: 
-- :white_check_mark: Dados do Comex Stat sejam limpos e padronizados para garantir integridade na análise 
-- :white_check_mark: Identificação dos 5 municípios com maior valor agregado de exportações em 2023 para priorizar esforços de investimento ou suporte
-- :white_check_mark: Visualização dos dados por município no Power BI para facilitar análises regionais e insights geográficos
-- :white_check_mark: Integração dos dados dos anos de 2023 e 2024 para realizar comparações de desempenho entre os períodos analisados
-- :white_check_mark: Enriquecimento dos dados com arquivos CSV contendo nomes completos dos municípios para assegurar clareza nas visualizações
+- :black_square_button: Como usuário final, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução.
+- :black_square_button: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
+- :black_square_button: Como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística.
+- :black_square_button: Como analista de dados, preciso documentar os scripts Python usados na limpeza e modelagem dos dados.
+
       
 ## 📌 Sprint 3 :construction: **EM DESENVOLVIMENTO** :construction:
-- :white_check_mark: Aplicação dos filtros por município, produto no dashboard para personalizar a análise
-- :white_check_mark: Comparação visualmente municípios entre si para entender variações no desempenho de exportações
-- :white_check_mark: Filtração dos dados utilizando códigos SH4 para obter um detalhamento por categoria de produto
-- :white_check_mark: Visualização dos rankings por volume e valor agregado para identificar líderes de exportação
+- :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
+- :black_square_button: Como cliente, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
+- :black_square_button: Como cliente, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
+- :black_square_button: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
+- :black_square_button:Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
+
+
       
 ## 📌 Sprint 4 :construction: **EM DESENVOLVIMENTO** :construction: 
-- :white_check_mark: Dashboard final responsivo e funcional para garantir boa experiência em qualquer dispositivo
-- :white_check_mark: Plataforma pronta para exportação e apresentação para facilitar o compartilhamento da solução
-- :white_check_mark: Repositório final organizado e documentado para futuras manutenções
-- :white_check_mark: Apresentação final clara da solução desenvolvida para validar o resultado e aprovar a entrega   
-   
+- :black_square_button: Como usuário final, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+- :black_square_button: Como usuário final, desejo que o dashboard final seja responsivo e funcional em qualquer dispositivo.
+- :black_square_button: Como gestor, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
+- :black_square_button: Como cliente, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
+
+
 
    
 # Desenvolvimento
