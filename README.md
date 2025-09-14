@@ -49,9 +49,9 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints
  
-📂 [*User story*](https://github.com/user-attachments/assets/75b80f69-5ab4-4f85-bf37-76a7724833c8")  :construction: **EM DESENVOLVIMENTO** :construction:
+📂 [*User story*](https://github.com/user-attachments/assets/75b80f69-5ab4-4f85-bf37-76a7724833c8) 
 
-## 📌 Sprint 0. Concepção :construction: **EM DESENVOLVIMENTO** :construction: 
+## 📌 Sprint 0. Concepção :construction: 
 - :white_check_mark: Backlog do produto;
 - :white_check_mark: Reuniões 
 - :white_check_mark: GitHub estruturado com link disponibilizado;
@@ -59,7 +59,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Slack Estruturado;
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
-## 📌 Sprint 1 :construction: **EM DESENVOLVIMENTO** :construction: 
+## 📌 Sprint 1 :construction: 
 - :black_square_button: Como cliente, solicito acessar às bases públicas para obter os dados necessários ao projeto.
 - :black_square_button: Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise.
 - :black_square_button: Como gestor, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.
@@ -68,14 +68,14 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :black_square_button: Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.
 - :black_square_button: Como gestor, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
   
-## 📌 Sprint 2 :construction: **EM DESENVOLVIMENTO** :construction: 
+## 📌 Sprint 2 :construction: 
 - :black_square_button: Como usuário final, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução.
 - :black_square_button: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
 - :black_square_button: Como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística.
 - :black_square_button: Como analista de dados, preciso documentar os scripts Python usados na limpeza e modelagem dos dados.
 
       
-## 📌 Sprint 3 :construction: **EM DESENVOLVIMENTO** :construction:
+## 📌 Sprint 3 :construction: 
 - :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
 - :black_square_button: Como cliente, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
 - :black_square_button: Como cliente, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
@@ -84,7 +84,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
       
-## 📌 Sprint 4 :construction: **EM DESENVOLVIMENTO** :construction: 
+## 📌 Sprint 4 :construction: 
 - :black_square_button: Como usuário final, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
 - :black_square_button: Como usuário final, desejo que o dashboard final seja responsivo e funcional em qualquer dispositivo.
 - :black_square_button: Como gestor, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
