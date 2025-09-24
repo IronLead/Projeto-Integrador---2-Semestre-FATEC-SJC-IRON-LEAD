@@ -53,25 +53,24 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 📂 [*User story*](https://github.com/user-attachments/assets/75b80f69-5ab4-4f85-bf37-76a7724833c8) 
 
 ## 📌 Sprint 0. Concepção 
-- :white_check_mark: Backlog do produto;
-- :white_check_mark: Reuniões 
-- :white_check_mark: GitHub estruturado com link disponibilizado;
-- :white_check_mark: Jira Software estruturado;
-- :white_check_mark: Slack Estruturado;
+- :white_check_mark: Backlog do produto.
+- :white_check_mark: Reuniões. 
+- :white_check_mark: GitHub estruturado com link disponibilizado.
+- :white_check_mark: Jira Software estruturado.
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
 ## 📌 Sprint 1 
-- :black_square_button: acesso das bases públicas para obter os dados necessários ao projeto.
+- :black_square_button: Acesso das bases públicas para obter os dados necessários ao projeto.
 - :black_square_button: Padronização dos formatos, remover erros e preparar os dados para análise.
 - :black_square_button: Ambiente de versionamento do projeto criado e bem estruturado para garantir controle e rastreabilidade.
 - :black_square_button: Definição dos dados serão consolidados e armazenados de forma eficiente.
-- :black_square_button: criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
+- :black_square_button: Criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
 - :black_square_button: Desenvolvimento dos scripts que tratem e organizem os dados para alimentar o dashboard.
+- :black_square_button: Identificação de quais cargas foram mais movimentadas para análise operacional.
 - :black_square_button: Requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
   
 ## 📌 Sprint 2 
 - :black_square_button: Visualização das primeiras telas do dashboard para acompanhar o andamento da solução.
-- :black_square_button: Identificação das cargas foram mais movimentadas para análise operacional.
 - :black_square_button: Mapeamento dos modais de transporte mais utilizados para avaliar a eficiência logística.
 - :black_square_button: Documentação dos scripts Python usados na limpeza e modelagem dos dados.
 
