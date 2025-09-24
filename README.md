@@ -48,9 +48,9 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 <img src="WhatsApp Image 2025-09-23 at 22.16.10.jpeg" width="80"/> |  Matheus Augusto  |  Team Member    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-silva-santos?/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussiqueira14)          |
 <img src="WhatsApp Image 2025-09-23 at 22.12.31.jpeg" width="80"/> |  Vitor Hugo   |   Team Member   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
 
-# Cronograma das Sprints
+# Cronograma das Sprints :construction: **EM DESENVOLVIMENTO** :construction:
  
-📂 [User story](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/commit/dccc63ab132e691a3fa91dbbaa6e78dafea84d14#diff-f407a5afe963ba40bd2f587152eacb96ca454008adb35066e09dfecdd34a06c0)
+📂 [User story]()
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
