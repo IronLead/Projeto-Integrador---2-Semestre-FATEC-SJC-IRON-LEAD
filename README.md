@@ -50,7 +50,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints :construction: **EM DESENVOLVIMENTO** :construction:
  
-📂 [*User story*](WhatsApp Image 2025-09-23 at 22.50.07.jpeg)
+📂 [*User story*](WhatsApp Image 2025-09-23 at 22.50.07.jpeg)]
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
