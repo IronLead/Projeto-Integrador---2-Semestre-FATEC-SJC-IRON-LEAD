@@ -50,7 +50,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints
  
-📂 [![User story] (https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/commit/dccc63ab132e691a3fa91dbbaa6e78dafea84d14#diff-f407a5afe963ba40bd2f587152eacb96ca454008adb35066e09dfecdd34a06c0)
+📂 [![User story](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/commit/dccc63ab132e691a3fa91dbbaa6e78dafea84d14#diff-f407a5afe963ba40bd2f587152eacb96ca454008adb35066e09dfecdd34a06c0)
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
