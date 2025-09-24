@@ -50,7 +50,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints :construction: **EM DESENVOLVIMENTO** :construction:
  
-📂 [*User story*](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/WhatsApp%20Image%202025-09-23%20at%2022.50.07.jpeg)]
+📂 [*User story*]
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
