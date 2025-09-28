@@ -1,8 +1,6 @@
-:construction: **EM DESENVOLVIMENTO** :construction:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/266fca5b-2393-4fe7-b361-3c40af3b59c8" alt="Logo do Projeto" width="600"/>
-</p>
+<img width="2000" height="600" alt="1" src="https://github.com/user-attachments/assets/e251449d-7568-4a55-bf86-c05f164249fa" />
+
 
 #  Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
@@ -10,7 +8,6 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 #   *Project-Based Learning with Integrative Projects (API)*  󠁧󠁢󠁥🇺🇸 :construction: **EM DESENVOLVIMENTO** :construction:
 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
-
 
 # :dart: Índice
 * [Projeto](#Projeto)
@@ -93,53 +90,30 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
    
-# Desenvolvimento
+# Desenvolvimento :construction: **EM DESENVOLVIMENTO** :construction:
 
 
 # *Base de Dados*  
-📂[Python/Pandas] :construction: **EM DESENVOLVIMENTO** :construction:
 
 # *Dashboard*
 
-📂[*Dashboard* executavel] :construction: **EM DESENVOLVIMENTO** :construction:‼️ 
+# Documentação 
 
-# Documentação :construction: **EM DESENVOLVIMENTO** :construction:
 
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Documentação]
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/>[Situação Problema]
+# Apresentação em *slide* 
 
-# Apresentação em *slide* :construction: **EM DESENVOLVIMENTO** :construction:
-
-<img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="40"/> [*slide* da apresentação]
 
 # Tecnologias Utilizadas 
 
-* <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
-* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
-* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
-* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
-* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
-* <img src="https://github.com/user-attachments/assets/894e292b-368d-4a89-ab7e-9aef6d239c98" width="40"/>  *VSCode*
 
-# Canais de comunicação :construction: **EM DESENVOLVIMENTO** :construction:
+# Canais de comunicação 
 
-* <img src="https://github.com/user-attachments/assets/d36e40b6-a450-49c3-a263-5bef20d380d3" width="40"/>  *Slack*
-  
-* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
 
-# Serviços utilizados :construction: **EM DESENVOLVIMENTO** :construction: 
+# Serviços utilizados 
 
-<img src="https://github.com/user-attachments/assets/cb0a70ef-3813-4f61-97c1-b15eff2f2ded" width="60"/> [Estatísticas de Comércio Exterior em Dados Abertos](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 # Agradecimentos 
 
-A realização deste API não seria possível sem o apoio e a colaboração de diversas pessoas que, direta ou indiretamente, contribuíram para seu desenvolvimento.
-Agradecemos primeiramente a Deus, por nos conceder saúde, sabedoria e perseverança ao longo desta jornada acadêmica.
-Expressamos nossa profunda gratidão ao professor Jose Jaétis Rosário, pela orientação precisa, incentivo constante e pela partilha de conhecimentos fundamentais para a construção deste trabalho.
-Aos demais docentes do curso de Logística, pelos ensinamentos que ampliaram nossa visão crítica e prática sobre os desafios e soluções no setor logístico.
-Aos nossos colegas de curso, pelo apoio mútuo, pelas discussões produtivas e pelo companheirismo durante toda a trajetória acadêmica.
-E, especialmente, à nossa família, por todo suporte emocional, incentivo diário e compreensão nos momentos mais exigentes deste processo.
-A todos, o nosso sincero e eterno agradecimento.
 
 -------------------------------------------------------------------
 <p align="center">
