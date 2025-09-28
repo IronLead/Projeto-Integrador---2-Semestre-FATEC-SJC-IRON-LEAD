@@ -116,8 +116,6 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
 -------------------------------------------------------------------
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
-</p>
+<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/0e93d1b7-4d7b-43d5-8a6c-926ee5ebef53" />
 
 
