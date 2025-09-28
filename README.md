@@ -57,14 +57,14 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
 ## 📌 Sprint 1 
-- :black_square_button: Acesso das bases públicas para obter os dados necessários ao projeto.
-- :black_square_button: Padronização dos formatos, remover erros e preparar os dados para análise.
-- :black_square_button: Ambiente de versionamento do projeto criado e bem estruturado para garantir controle e rastreabilidade.
-- :black_square_button: Definição dos dados serão consolidados e armazenados de forma eficiente.
-- :black_square_button: Criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
-- :black_square_button: Desenvolvimento dos scripts que tratem e organizem os dados para alimentar o dashboard.
-- :black_square_button: Identificação de quais cargas foram mais movimentadas para análise operacional.
-- :black_square_button: Requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
+- :white_check_mark: Acesso das bases públicas para obter os dados necessários ao projeto.
+- :white_check_mark: Padronização dos formatos, remover erros e preparar os dados para análise.
+- :white_check_mark: Ambiente de versionamento do projeto criado e bem estruturado para garantir controle e rastreabilidade.
+- :white_check_mark: Definição dos dados serão consolidados e armazenados de forma eficiente.
+- :white_check_mark: Criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
+- :white_check_mark: Desenvolvimento dos scripts que tratem e organizem os dados para alimentar o dashboard.
+- :white_check_mark: Identificação de quais cargas foram mais movimentadas para análise operacional.
+- :white_check_mark: Requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
   
 ## 📌 Sprint 2 
 - :black_square_button: Visualização das primeiras telas do dashboard para acompanhar o andamento da solução.
@@ -81,7 +81,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
       
-## 📌 Sprint 4 
+## 📌 Apresentação Feira 
 - :black_square_button: Plataforma permitindo exportar e compartilhar os dados e análises com facilidade.
 - :black_square_button: Dashboard final responsivo e funcional em qualquer dispositivo.
 - :black_square_button: Repositório final organizado e documentado para garantir manutenções futuras.
