@@ -57,35 +57,35 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Atribuição das atividades para a Sprint 1.
   
 ## 📌 Sprint 1 
-- :white_check_mark: Acesso das bases públicas para obter os dados necessários ao projeto.
-- :white_check_mark: Padronização dos formatos, remover erros e preparar os dados para análise.
-- :white_check_mark: Ambiente de versionamento do projeto criado e bem estruturado para garantir controle e rastreabilidade.
-- :white_check_mark: Definição dos dados serão consolidados e armazenados de forma eficiente.
-- :white_check_mark: Criação de uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
-- :white_check_mark: Desenvolvimento dos scripts que tratem e organizem os dados para alimentar o dashboard.
-- :white_check_mark: Identificação de quais cargas foram mais movimentadas para análise operacional.
-- :white_check_mark: Requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
+- :white_check_mark: Como tomador de decisão em políticas públicas, solicito acessar as bases públicas para obter os dados necessários ao projeto.
+- :white_check_mark: Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise.
+- :white_check_mark: Como tomador de decisão em políticas públicas, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.
+- :white_check_mark: Como analista de dados, preciso definir como os dados serão consolidados e armazenados de forma eficiente.
+- :white_check_mark: Como analista de dados, preciso criar uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.
+- :white_check_mark: Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.
+- :white_check_mark: Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.
+- :white_check_mark: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
   
 ## 📌 Sprint 2 
-- :black_square_button: Visualização das primeiras telas do dashboard para acompanhar o andamento da solução.
-- :black_square_button: Mapeamento dos modais de transporte mais utilizados para avaliar a eficiência logística.
-- :black_square_button: Documentação dos scripts Python usados na limpeza e modelagem dos dados.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução.
+- :black_square_button: Como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística.
+- :black_square_button: Como analista de dados, preciso documentar os scripts Python usados na limpeza e modelagem dos dados.
 
       
 ## 📌 Sprint 3 
-- :black_square_button: Entendimento dos principais fluxos de carga — origem e destino — para identificar padrões.
-- :black_square_button: Visualização dos gráficos como o volume de movimentações evoluiu ao longo dos anos.
-- :black_square_button: Empresas que mais declararam movimentações (RAPP) para análise de atuação no setor.
-- :black_square_button: Identificação das regiões com maior incidência de acidentes.
-- :black_square_button: correlação dos acidentes com a proximidade de pontos de parada e descanso.
+- :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
+- :black_square_button: Como tomador de decisão em políticas públicas, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
+- :black_square_button: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
+- :black_square_button: Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
 
 
       
 ## 📌 Apresentação Feira 
-- :black_square_button: Plataforma permitindo exportar e compartilhar os dados e análises com facilidade.
-- :black_square_button: Dashboard final responsivo e funcional em qualquer dispositivo.
-- :black_square_button: Repositório final organizado e documentado para garantir manutenções futuras.
-- :black_square_button: Apresentação final clara da solução para validar os resultados e aprovar a entrega.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+- :black_square_button: Como tomador de decisão em políticas públicas, desejo que o dashboard final seja responsivo e funcione em qualquer dispositivo.
+- :black_square_button: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
 
 
 
