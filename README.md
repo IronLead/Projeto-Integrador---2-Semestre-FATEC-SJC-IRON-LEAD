@@ -81,7 +81,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
       
-## 📌 Apresentação Feira 
+## 📌 Apresentação (Feira de Soluções)
 - :black_square_button: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
 - :black_square_button: Como tomador de decisão em políticas públicas, desejo que o dashboard final seja responsivo e funcione em qualquer dispositivo.
 - :black_square_button: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
