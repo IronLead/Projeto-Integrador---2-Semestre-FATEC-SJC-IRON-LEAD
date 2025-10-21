@@ -1,4 +1,4 @@
-
+<img width="1430" height="21" alt="image" src="https://github.com/user-attachments/assets/a685afc0-8533-4f49-8ac3-d55868aba062" /><img width="1430" height="21" alt="image" src="https://github.com/user-attachments/assets/a31323c7-604c-4b39-82ed-24989b4aeef2" />
 <img width="2000" height="600" alt="1" src="https://github.com/user-attachments/assets/e251449d-7568-4a55-bf86-c05f164249fa" />
 
 
@@ -67,10 +67,11 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
   
 ## 📌 Sprint 2 
-- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução.
-- :black_square_button: Como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística.
-- :black_square_button: Como analista de dados, preciso documentar os scripts Python usados na limpeza e modelagem dos dados.
-
+- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar as telas iniciais do dashboard, com dados integrados do IBAMA, RENAEST, acidentes, clima e movimentação de cargas, para acompanhar o desenvolvimento da solução.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar os dados já filtrados para o modal rodoviário e tipo de veículo caminhão, para analisar de forma mais precisa os principais fluxos de transporte.
+- :black_square_button: Como tomador de decisão em políticas públicas, quero ver gráficos e indicadores mais claros no formato de cards, para facilitar a leitura e interpretação dos resultados.
+- :black_square_button: MVP Sprint 1: Base de dados conectada e tratada, estrutura do repositório criada, modelo de dados definido e primeiros scripts funcionando no Colab.
+- :black_square_button: MVP Sprint 2: Dashboard funcional com dados filtrados (rodoviário e caminhão), indicadores principais visuais e layout validado com o cliente.
       
 ## 📌 Sprint 3 
 - :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
