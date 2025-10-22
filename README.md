@@ -1,3 +1,6 @@
+<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
+
+
 # Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
