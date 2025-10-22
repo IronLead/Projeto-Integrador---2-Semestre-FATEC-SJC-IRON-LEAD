@@ -66,11 +66,11 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :white_check_mark: Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.
   
 ## 📌 Sprint 2 
-- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar as telas iniciais do dashboard, com dados integrados do IBAMA, RENAEST, acidentes, clima e movimentação de cargas, para acompanhar o desenvolvimento da solução.
-- :black_square_button: Como tomador de decisão em políticas públicas, quero visualizar os dados já filtrados para o modal rodoviário e tipo de veículo caminhão, para analisar de forma mais precisa os principais fluxos de transporte.
-- :black_square_button: Como tomador de decisão em políticas públicas, quero ver gráficos e indicadores mais claros no formato de cards, para facilitar a leitura e interpretação dos resultados.
-- :black_square_button: MVP Sprint 1: Base de dados conectada e tratada, estrutura do repositório criada, modelo de dados definido e primeiros scripts funcionando no Colab.
-- :black_square_button: MVP Sprint 2: Dashboard funcional com dados filtrados (rodoviário e caminhão), indicadores principais visuais e layout validado com o cliente.
+-  :white_check_mark:Como tomador de decisão em políticas públicas, quero visualizar as telas iniciais do dashboard, com dados integrados do IBAMA, RENAEST, acidentes, clima e movimentação de cargas, para acompanhar o desenvolvimento da solução.
+-  :white_check_mark:Como tomador de decisão em políticas públicas, quero visualizar os dados já filtrados para o modal rodoviário e tipo de veículo caminhão, para analisar de forma mais precisa os principais fluxos de transporte.
+-  :white_check_mark:Como tomador de decisão em políticas públicas, quero ver gráficos e indicadores mais claros no formato de cards, para facilitar a leitura e interpretação dos resultados.
+-  :white_check_mark:MVP Sprint 1: Base de dados conectada e tratada, estrutura do repositório criada, modelo de dados definido e primeiros scripts funcionando no Colab.
+-  :white_check_mark:MVP Sprint 2: Dashboard funcional com dados filtrados (rodoviário e caminhão), indicadores principais visuais e layout validado com o cliente.
       
 ## 📌 Sprint 3 
 - :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
