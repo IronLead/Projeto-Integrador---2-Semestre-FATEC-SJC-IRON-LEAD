@@ -1,7 +1,7 @@
 # Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
-#  <h1 align="center">  *Project-Based Learning with Integrative Projects (API)*  󠁧󠁢󠁥🇺🇸
+#  <h1 align="center">  *Project-Based Learning with Integrative Projects (API)*  󠁧󠁢󠁥us
 
 *Project-based learning with integrative projects follows a dynamic and interactive approach, similar to agile methodologies. In this method, students develop knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. Interdisciplinarity is emphasized, allowing different areas of knowledge to be collaboratively applied to solve real-world challenges, promoting continuous adaptation and the incremental delivery of results.*
 
