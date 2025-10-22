@@ -91,10 +91,10 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| Sprint 01 – Estrutura e Dados Brutos  | 01/10/2025 | feito | [MVP](MVP/sp1.md)  |
+| Sprint 02 – Consolidação e Organização | 29/10/2025 | feito  | [MVP](MVP/sp2.md)  |
+| Sprint 03 – Visualização e Análises| dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções – Entrega Final | dd/mm/aaaa | a fazer  | [MVP](#)  |
 
 
 
