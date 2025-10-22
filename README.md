@@ -84,6 +84,16 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :black_square_button: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
 - :black_square_button: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
 
+  # Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+
+
 
 
    
