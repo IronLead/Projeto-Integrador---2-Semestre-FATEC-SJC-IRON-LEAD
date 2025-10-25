@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
+[Apresentação API - SPRINT 1 - IRON LEAD.pdf](https://github.com/user-attachments/files/23144091/Apresentacao.API.-.SPRINT.1.-.IRON.LEAD.pdf)<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
 
 
 # Aprendizado por Projeto Integrador (API) :brazil:
@@ -111,9 +111,19 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
 # Apresentação em *slide* 
-
+* [Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
+* [Sprint_2]()
+* [Sprint_3])
+* [Feira de Soluções]()
 
 # Tecnologias Utilizadas 
+
+* <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
+* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
+* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
+* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
+* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
+* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
 
 
 # Canais de comunicação 
@@ -124,12 +134,6 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Serviços utilizados 
 
-* <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
-* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
-* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
-* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
-* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
-* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
 
 # Agradecimentos 
 
