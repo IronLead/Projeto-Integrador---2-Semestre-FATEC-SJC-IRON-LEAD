@@ -117,9 +117,8 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # *Dashboard* :construction:
 
-
-
 ![Blue and White Modern Professional Contact Details LinkedIn Article Cover](https://github.com/user-attachments/assets/70de8fef-3b69-44d2-8ac2-fbecaeae6a7a)
+🔗[Dashboard]()
 
 
 
