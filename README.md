@@ -128,7 +128,7 @@ Comandos utilizados para edição dos dados brutos </p>
 
 # Apresentação em *slide* 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2](https://drive.google.com/file/d/1FfuiSR5qbNRhY2Z_sivN_FwDpalBR_Wf/view?usp=drive_link) 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_3]() :construction:
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Feira de Soluções]() :construction:
 
