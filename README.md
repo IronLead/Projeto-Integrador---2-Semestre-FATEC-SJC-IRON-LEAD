@@ -108,13 +108,16 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 # *Dashboard*
 
 # Documentação 
-
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]()
 
 # Apresentação em *slide* 
-* [Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
-* [Sprint_2]()
-* [Sprint_3])
-* [Feira de Soluções]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]()
 
 # Tecnologias Utilizadas 
 
