@@ -118,6 +118,9 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Canais de comunicação 
 
+* <img src="https://github.com/user-attachments/assets/e0219d75-7e97-4072-bd6a-186a299c096b" width="40"/>  *Whatsapp*
+* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
+
 
 # Serviços utilizados 
 
@@ -126,7 +129,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 * <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
 * <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
-* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Collab*
+* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
 
 # Agradecimentos 
 
