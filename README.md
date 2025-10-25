@@ -121,8 +121,20 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Serviços utilizados 
 
+* <img src="https://github.com/user-attachments/assets/23a35455-2da8-4c8c-8ace-f5f778969a6e" width="40"/>  *Excel*
+* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
+* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
+* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
+* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
+* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Collab*
 
 # Agradecimentos 
+
+Gostaríamos de expressar nossa profunda gratidão a todos que tornaram a realização deste projeto, em benefício do Instituto de Pesos e Medidas do Estado de São Paulo (IPEM-SP), uma realidade de sucesso.
+Um agradecimento especial ao nosso Professor, cuja orientação e conhecimento foram pilares essenciais para estruturar e conduzir este trabalho. Sua dedicação em nos guiar foi fundamental para superarmos os desafios e alcançarmos nossos objetivos com excelência.
+Nosso reconhecimento se estende a Jean e a Marcus. O empenho, a colaboração incansável e a expertise de cada um foram cruciais em todas as etapas do projeto. A sinergia e o profissionalismo de vocês garantiram a qualidade e o impacto que almejávamos para o IPEM-SP.
+É gratificante saber que, juntos, pudemos contribuir para as importantes atividades de metrologia e qualidade desempenhadas pelo IPEM-SP, reforçando o compromisso com a sociedade paulista.
+A todos que, direta ou indiretamente, contribuíram com tempo, ideias ou apoio, o nosso sincero muito obrigado!
 
 
 -------------------------------------------------------------------
