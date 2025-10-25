@@ -104,16 +104,11 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 
 # Base de Dados  :construction:
-![WhatsApp Image 2025-10-09 at 13 44 23](https://github.com/user-attachments/assets/f95e04d0-f838-42cf-95c3-edf55147a668)
-💾 acesso e leitura da base de dados alocada no google drive pelo colab
 
-![WhatsApp Image 2025-10-09 at 13 44 23 (1)](https://github.com/user-attachments/assets/3bd02eee-f32f-45cb-b35e-6379d08e274a) </p>
-🚛limpeza da coluna de modais, priorizando a análise para o modal rodoviário 
+* [limpeza da base de dados](https://colab.research.google.com/drive/1J77_Q8--C9WD3igngOdiWE2f3KLg_FL_?usp=sharing)
 
-![WhatsApp Image 2025-10-09 at 13 44 23 (2)](https://github.com/user-attachments/assets/d3f368da-0725-40ef-a0ba-b07c3de2927e)
-✅limpeza das linhas "não informado"
-
-
+* [Limpeza dos modais, priorizando o modal rodoviário](https://colab.research.google.com/drive/1WBr__KSqmuWty15IihQGOZm-7LttZyN-?usp=sharing)
+* [Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* :construction:
 
