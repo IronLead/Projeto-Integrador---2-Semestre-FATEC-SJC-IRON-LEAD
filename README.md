@@ -14,7 +14,7 @@ A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e 
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Base de Dados](#Base-de-Dados)
+* [Comandos utilizados](#Comandos-utilizados)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
 * [Apresentação em *slide*](#apresentação-em-slide)
@@ -103,7 +103,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 # Desenvolvimento :construction: **EM DESENVOLVIMENTO** :construction:
 
 
-# Base de Dados  
+# Comandos utilizados
 
 Comandos utilizados para edição dos dados brutos </p>
 <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/> <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/> 
