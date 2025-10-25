@@ -1,4 +1,4 @@
-[Apresentação API - SPRINT 1 - IRON LEAD.pdf](https://github.com/user-attachments/files/23144091/Apresentacao.API.-.SPRINT.1.-.IRON.LEAD.pdf)<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
+<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
 
 
 # Aprendizado por Projeto Integrador (API) :brazil:
@@ -46,7 +46,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints :construction:
  
-📂 [*User story*](https://github.com/user-attachments/assets/6c3b45e4-0997-414c-8875-7e37d0130bc4)
+🔗  [*User story*](https://github.com/user-attachments/assets/6c3b45e4-0997-414c-8875-7e37d0130bc4)
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
