@@ -103,21 +103,31 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 # Desenvolvimento :construction: **EM DESENVOLVIMENTO** :construction:
 
 
-# *Base de Dados*   :construction:
+# Base de Dados  :construction:
+![WhatsApp Image 2025-10-09 at 13 44 23](https://github.com/user-attachments/assets/f95e04d0-f838-42cf-95c3-edf55147a668)
+💾 acesso e leitura da base de dados alocada no google drive pelo colab
+
+![WhatsApp Image 2025-10-09 at 13 44 23 (1)](https://github.com/user-attachments/assets/3bd02eee-f32f-45cb-b35e-6379d08e274a) </p>
+🚛limpeza da coluna de modais, priorizando a análise para o modal rodoviário 
+
+![WhatsApp Image 2025-10-09 at 13 44 23 (2)](https://github.com/user-attachments/assets/d3f368da-0725-40ef-a0ba-b07c3de2927e)
+✅limpeza das linhas "não informado"
+
+
 
 # *Dashboard* :construction:
 
 # Documentação 
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]() :construction:
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]() :construction:
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_3]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Feira de Soluções]() :construction:
 
 # Apresentação em *slide* 
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]() :construction:
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]() :construction:
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_2]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Sprint_3]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>🔗 [Feira de Soluções]() :construction:
 
 # Tecnologias Utilizadas 
 
