@@ -44,7 +44,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 <img src="WhatsApp Image 2025-09-23 at 22.16.10.jpeg" width="80"/> |  Matheus Augusto  |  Team Member    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-silva-santos?/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maugustto)          |
 <img src="WhatsApp Image 2025-09-23 at 22.12.31.jpeg" width="80"/> |  Vitor Hugo   |   Team Member   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-nascimento-9b161531b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vitor411)          |
 
-# Cronograma das Sprints :construction: **EM DESENVOLVIMENTO** :construction:
+# Cronograma das Sprints :construction:
  
 📂 [*User story*](https://github.com/user-attachments/assets/6c3b45e4-0997-414c-8875-7e37d0130bc4)
 
@@ -87,7 +87,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 - :black_square_button: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
 - :black_square_button: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
 
-  # Registro das Sprints
+  # Registro das Sprints :construction:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
@@ -103,21 +103,21 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 # Desenvolvimento :construction: **EM DESENVOLVIMENTO** :construction:
 
 
-# *Base de Dados*  
+# *Base de Dados*   :construction:
 
-# *Dashboard*
+# *Dashboard* :construction:
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]()
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]()
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]() :construction:
 
 # Apresentação em *slide* 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_1](https://drive.google.com/file/d/18MYjyk42Yi1zUiVjzKtzRhqH3HO7S2sY/view)
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]()
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]()
-* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]()
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_2]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Sprint_3]() :construction:
+* <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/>[Feira de Soluções]() :construction:
 
 # Tecnologias Utilizadas 
 
