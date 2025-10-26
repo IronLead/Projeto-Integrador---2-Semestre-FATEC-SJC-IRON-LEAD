@@ -109,9 +109,9 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 Comandos utilizados para edição dos dados brutos </p>
 <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/> <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/> 
 
-* [limpeza da base de dados](https://colab.research.google.com/drive/1J77_Q8--C9WD3igngOdiWE2f3KLg_FL_?usp=sharing)
-* [Limpeza dos modais, priorizando o modal rodoviário](https://colab.research.google.com/drive/1WBr__KSqmuWty15IihQGOZm-7LttZyN-?usp=sharing)
-* [Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
+* 🔗[limpeza da base de dados](https://colab.research.google.com/drive/1J77_Q8--C9WD3igngOdiWE2f3KLg_FL_?usp=sharing)
+* 🔗[Limpeza dos modais, priorizando o modal rodoviário](https://colab.research.google.com/drive/1WBr__KSqmuWty15IihQGOZm-7LttZyN-?usp=sharing)
+* 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* :construction:
 ![Blue and White Modern Professional Contact Details LinkedIn Article Cover (3)](https://github.com/user-attachments/assets/4de72bca-8e32-42d5-afa5-97a48e88e06d)
