@@ -1,4 +1,6 @@
-<img width="2000" height="600" alt="Blue and White Modern Professional Contact Details LinkedIn Article Cover" src="https://github.com/user-attachments/assets/7bd1d968-359d-44b0-bb0c-e029fcce480b" />
+
+![Blue and White Modern Professional Contact Details LinkedIn Article Cover (4)](https://github.com/user-attachments/assets/05e4536a-b0f1-4a47-8719-aae1b36fa6ba)
+
 
 
 # <h1 align="center"> Aprendizado por Projeto Integrador (API) :brazil:
@@ -113,8 +115,8 @@ Comandos utilizados para edição dos dados brutos </p>
 * [Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* :construction:
+![Blue and White Modern Professional Contact Details LinkedIn Article Cover (3)](https://github.com/user-attachments/assets/4de72bca-8e32-42d5-afa5-97a48e88e06d)
 
-![Blue and White Modern Professional Contact Details LinkedIn Article Cover](https://github.com/user-attachments/assets/70de8fef-3b69-44d2-8ac2-fbecaeae6a7a)
 🔗[Dashboard]()
 
 
@@ -161,6 +163,6 @@ A todos que, direta ou indiretamente, contribuíram com tempo, ideias ou apoio, 
 
 
 -------------------------------------------------------------------
-<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/0e93d1b7-4d7b-43d5-8a6c-926ee5ebef53" />
+<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/b2d93505-c200-42f8-9de1-1e9303bf7163" />
 
 
