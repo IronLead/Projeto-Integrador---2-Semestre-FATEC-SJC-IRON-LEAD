@@ -148,6 +148,8 @@ Comandos utilizados para edição dos dados brutos </p>
 
 
 # Serviços utilizados 
+* 🔗 [Dados abertos RENAEST](https://dados.transportes.gov.br/dataset/renaest)
+* 🔗 [Dados abertos IBAMA](https://dadosabertos.ibama.gov.br/dataset/transporte-de-produtos-quimicos-perigosos-ou-combustiveis)
 
 
 # Agradecimentos 
