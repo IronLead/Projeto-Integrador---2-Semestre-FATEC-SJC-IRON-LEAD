@@ -114,7 +114,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* :construction:
-![Blue and White Modern Professional Contact Details LinkedIn Article Cover (3)](https://github.com/user-attachments/assets/4de72bca-8e32-42d5-afa5-97a48e88e06d)
+[![Blue and White Modern Professional Contact Details LinkedIn Article Cover (3)](https://github.com/user-attachments/assets/4de72bca-8e32-42d5-afa5-97a48e88e06d)](https://www.youtube.com/)
 
 🔗[Dashboard]()
 
