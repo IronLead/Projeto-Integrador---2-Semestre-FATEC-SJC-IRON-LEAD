@@ -1,11 +1,6 @@
 
 ![Blue and White Modern Professional Contact Details LinkedIn Article Cover (4)](https://github.com/user-attachments/assets/05e4536a-b0f1-4a47-8719-aae1b36fa6ba)
 
-## Estrutura
-- [Backend](backend/README.md)
-- [Frontend](frontend/README.md)
-- [Documentação](docs/README.md)
-
 # <h1 align="center"> Aprendizado por Projeto Integrador (API) :brazil:
 A aprendizagem baseada em projetos integradores segue uma abordagem dinâmica e interativa, semelhante às metodologias ágeis. Nesse método, os alunos desenvolvem conhecimentos e habilidades ao trabalhar em projetos práticos, organizados em ciclos de planejamento, execução e retrospectiva. A interdisciplinaridade é valorizada, permitindo que diferentes áreas do conhecimento sejam aplicadas de forma colaborativa para solucionar desafios do mundo real, promovendo a adaptação contínua e a entrega incremental de resultados.
 
@@ -96,7 +91,7 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Sprint 01 – Estrutura e Dados Brutos  | 01/10/2025 | feito | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP1.md)  |
-| Sprint 02 – Consolidação e Organização | 29/10/2025 | feito  | [MVP](MVP/sp2.md)  |
+| Sprint 02 – Consolidação e Organização | 29/10/2025 | feito  | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP2.md)  |
 | Sprint 03 – Visualização e Análises| dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções – Entrega Final | dd/mm/aaaa | a fazer  | [MVP](#)  |
 
