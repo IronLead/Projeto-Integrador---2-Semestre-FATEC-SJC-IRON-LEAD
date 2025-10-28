@@ -1,40 +1,40 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Sprint 2]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Será desenvolvido um dashboard inicial para que os tomadores de decisão em políticas públicas possam acompanhar o andamento da solução de forma visual e intuitiva.
+A equipe de logística realizará o mapeamento dos modais de transporte mais utilizados, visando avaliar e aprimorar a eficiência logística.
+Paralelamente, os analistas de dados irão documentar os scripts em Python utilizados na limpeza e modelagem dos dados, assegurando a organização e rastreabilidade do processo analítico. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- primeiras telas do dashboard em funcionamento 
+- modais de trasportes mais utilizados
+- scripts python documentados 
+  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Cliente ( Coordenador Marcus Nascimento )
+- **Persona 2:** IPEM
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US9 | como tomador de decisão em politicas públicas, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução        | Alta       | 5 pontos   |
+| US10 | como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística          | alta      | 3 pontos   |
+| US11 | como analista de dados, preciso documentar os scripts python usados na limpeza e modelagem dos dados         | Média      | 3 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | analises, dashboard definitivo                 | Concluído|
+
 
 ---
 
