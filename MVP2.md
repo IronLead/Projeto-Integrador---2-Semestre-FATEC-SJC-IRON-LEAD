@@ -39,24 +39,19 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário tenha acesso aos registros dos comandos python e acesso ao Dashboard definitivo em funcionamento. 
+
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- os usuarios deverão testar o MVP 
 
 ---
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+ 
 ---
 
 ## 📂 Anexos / Evidências
