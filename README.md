@@ -71,11 +71,11 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 -  :white_check_mark:MVP Sprint 2: Dashboard funcional com dados filtrados (rodoviário e caminhão), indicadores principais visuais e layout validado com o cliente.
       
 ## 📌 Sprint 3 
-- :black_square_button: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
-- :black_square_button: Como tomador de decisão em políticas públicas, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
-- :black_square_button: Como tomador de decisão em políticas públicas, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
-- :black_square_button: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
-- :black_square_button: Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
+- :white_check_mark: Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.
+- :white_check_mark: Como tomador de decisão em políticas públicas, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.
+- :white_check_mark: Como tomador de decisão em políticas públicas, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.
+- :white_check_mark: Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.
+- :white_check_mark: Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.
 
 
       
