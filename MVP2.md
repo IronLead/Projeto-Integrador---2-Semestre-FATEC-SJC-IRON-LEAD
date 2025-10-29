@@ -55,4 +55,4 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ---
 
 ## 📂 Anexos / Evidências
-[Vídeo Sprint 2]{(https://drive.google.com/file/d/18_2CmldnlW_eRXxaqJujQ0Ve_Csgfuea/view?usp=sharing)
+[Vídeo Sprint 2](https://drive.google.com/file/d/18_2CmldnlW_eRXxaqJujQ0Ve_Csgfuea/view?usp=sharing)
