@@ -44,7 +44,8 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
 # Cronograma das Sprints 
  
-🔗  [*User story*](https://github.com/user-attachments/assets/6c3b45e4-0997-414c-8875-7e37d0130bc4)
+🔗  [*User story*](<img width="1444" height="403" alt="image" src="https://github.com/user-attachments/assets/9c9323b5-f1e7-4bf6-9820-c8e13315498e" />
+)
 
 ## 📌 Sprint 0. Concepção 
 - :white_check_mark: Backlog do produto.
