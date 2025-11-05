@@ -24,8 +24,8 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US9 | como tomador de decisão em politicas públicas, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução        | Alta       | 5 pontos   |
-| US10 | como analista de logística, quero mapear os modais de transporte mais utilizados para avaliar a eficiência logística          | alta      | 3 pontos   |
+| US9 | como analista de logistica,quero entender os principais fluxos de carga - origem e destino - para identificar padrões.         | Alta       | 5 pontos   |
+| US10 | como tomador         | alta      | 3 pontos   |
 | US11 | como analista de dados, preciso documentar os scripts python usados na limpeza e modelagem dos dados         | Média      | 3 pontos   |
 
 ---
