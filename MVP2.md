@@ -50,7 +50,7 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- cliente pediu algumas melhorias 
  
 ---
 
