@@ -131,17 +131,15 @@ Comandos utilizados para edição dos dados brutos </p>
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
 * <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
 
-
 # Canais de comunicação 
 
 * <img src="https://github.com/user-attachments/assets/e0219d75-7e97-4072-bd6a-186a299c096b" width="40"/>  *Whatsapp*
 * <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*   
 
-
 # Serviços utilizados 
 * 🔗 [Dados abertos RENAEST](https://dados.transportes.gov.br/dataset/renaest)
 * 🔗 [Dados abertos IBAMA](https://dadosabertos.ibama.gov.br/dataset/transporte-de-produtos-quimicos-perigosos-ou-combustiveis)
-
+* 🔗 [Canal do youtube](https://www.youtube.com/channel/UCWBE6tKRgdDOHgyqe7G7LpQ)
 
 # Agradecimentos 
 
