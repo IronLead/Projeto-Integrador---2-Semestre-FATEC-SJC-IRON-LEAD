@@ -1,17 +1,15 @@
 # 📌 MVP - [Sprint 3]
 
 ## 🎯 Objetivo do MVP
-Será desenvolvido um dashboard inicial para que os tomadores de decisão em políticas públicas possam acompanhar o andamento da solução de forma visual e intuitiva.
-A equipe de logística realizará o mapeamento dos modais de transporte mais utilizados, visando avaliar e aprimorar a eficiência logística.
-Paralelamente, os analistas de dados irão documentar os scripts em Python utilizados na limpeza e modelagem dos dados, assegurando a organização e rastreabilidade do processo analítico. 
+
+Otimizar a eficiência e segurança da cadeia logística nacional, fornecendo informações estratégicas (fluxos de carga, atuação empresarial e análise de acidentes) para suportar a formulação de políticas públicas e a tomada de decisões logísticas focadas na redução de custos e na prevenção de riscos.
 
 ---
 
 ## 📝 Descrição da Solução
-- primeiras telas do dashboard em funcionamento 
-- modais de trasportes mais utilizados
-- scripts python documentados 
-  
+- analises de origem e destino e correlações com cargas perigosas 
+- padroes e fatores que causam acidentes 
+- analises do dashboard 
 
 ---
 
@@ -35,14 +33,13 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | analises, dashboard definitivo                 | Concluído|
+| 03   | como tomador de decisão em politicas públicas, quero visualizar as primeiras telas do dashboard para acompanhar o andamento da solução                | Concluído|
 
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário tenha acesso aos registros dos comandos python e acesso ao Dashboard definitivo em funcionamento. 
-
+- O MVP deve permitir que o usuário tenha acesso a analises e correlações no dashboard 
 
 ---
 
@@ -52,7 +49,7 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- Melhorias planejadas para a feira de soluções
  
 ---
 
