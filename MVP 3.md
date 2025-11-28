@@ -24,9 +24,11 @@ Paralelamente, os analistas de dados irão documentar os scripts em Python utili
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US9 | como analista de logistica,quero entender os principais fluxos de carga - origem e destino - para identificar padrões.         | Alta       | 5 pontos   |
-| US10 | como tomador         | alta      | 3 pontos   |
-| US11 | como analista de dados, preciso documentar os scripts python usados na limpeza e modelagem dos dados         | Média      | 3 pontos   |
+| US14 | Como analista de logística, quero entender os principais fluxos de carga — origem e destino — para identificar padrões.        | Alta       | 5 pontos   |
+| US15 | Como tomador de decisão em políticas públicas, desejo visualizar em gráficos como o volume de movimentações evoluiu ao longo dos anos.   | alta | 2 pontos |
+| US16 |Como tomador de decisão em políticas públicas, quero saber quais empresas mais declararam movimentações (RAPP) para análise de atuação no setor.        | Média      | 3 pontos   |
+| US17 | Como analista de logística, preciso identificar as regiões com maior incidência de acidentes.        | Média      | 3 pontos   |
+| US18 | Como analista de logística, desejo correlacionar os acidentes com a proximidade de pontos de parada e descanso.        | Média      | 3 pontos   |
 
 ---
 
