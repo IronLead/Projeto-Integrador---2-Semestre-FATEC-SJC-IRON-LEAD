@@ -111,7 +111,7 @@ Comandos utilizados para edição dos dados brutos </p>
 * 🔗[Acesso do Python à base dados no google drive](https://colab.research.google.com/drive/1FN-EN0elO4OQ2brhSiho39kSMdLlm8_g?usp=sharing)
 
 # *Dashboard* 
-[![Blue and White Modern Professional Contact Details LinkedIn Article Cover](https://github.com/user-attachments/assets/93e32098-dac2-49e6-84fd-68e30b00b647)](https://app.powerbi.com/view?r=eyJrIjoiMzIxZDc0NWItOWM1Ny00Nzk3LWExNzctYWFjZDYxNGY5MGI0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+[![Blue and White Modern Professional Contact Details LinkedIn Article Cover](https://github.com/user-attachments/assets/93e32098-dac2-49e6-84fd-68e30b00b647)](https://app.powerbi.com/view?r=eyJrIjoiOTIyYWM3MDMtNzYzNi00Zjk2LWI4NjAtNmYzMDUyYzIzNzk0IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 # Documentação 
 * <img src="https://github.com/user-attachments/assets/6240b221-eb7d-4cc7-957c-93622513f7c5" width="30"/> 🔗 [Sprint_1](https://docs.google.com/document/d/1UhrcqCnoHWJFlpVQ8VTm27dsnq9JZDk-/edit?usp=sharing&ouid=108320604390744902665&rtpof=true&sd=true)
