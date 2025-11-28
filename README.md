@@ -92,13 +92,8 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 | Sprint 01 – Estrutura e Dados Brutos  | 01/10/2025 | feito | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP1.md)  |
 | Sprint 02 – Consolidação e Organização | 29/10/2025 | feito  | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP2.md)  |
 | Sprint 03 – Visualização e Análises| 28/11/2025 | feito  | [MVP](https://github.com/IronLead/Projeto-Integrador---2-Semestre-FATEC-SJC-IRON-LEAD/blob/main/MVP%203.md)  |
-
-
-
-
-
    
-# Desenvolvimento :construction: **EM DESENVOLVIMENTO** :construction:
+# Desenvolvimento 
 
 
 # Comandos utilizados
