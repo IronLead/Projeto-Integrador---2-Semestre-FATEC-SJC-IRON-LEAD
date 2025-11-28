@@ -80,10 +80,10 @@ Entrega de um dashboard interativo em Power BI com dados atualizados sobre carga
 
       
 ## 📌 Apresentação (Feira de Soluções)
-- :black_square_button: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
-- :black_square_button: Como tomador de decisão em políticas públicas, desejo que o dashboard final seja responsivo e funcione em qualquer dispositivo.
-- :black_square_button: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
-- :black_square_button: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
+- :white_check_mark: Como tomador de decisão em políticas públicas, quero que a plataforma permita exportar e compartilhar os dados e análises com facilidade.
+- :white_check_mark: Como tomador de decisão em políticas públicas, desejo que o dashboard final seja responsivo e funcione em qualquer dispositivo.
+- :white_check_mark: Como tomador de decisão em políticas públicas, preciso que o repositório final esteja organizado e documentado para garantir manutenções futuras.
+- :white_check_mark: Como tomador de decisão em políticas públicas, quero uma apresentação final clara da solução para validar os resultados e aprovar a entrega.
 
   # Registro das Sprints :construction:
 
