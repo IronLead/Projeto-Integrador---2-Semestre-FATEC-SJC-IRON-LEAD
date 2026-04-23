@@ -17,7 +17,7 @@ Desenvolver um ambiente de Business Intelligence que integre e padronize dados p
 
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1:** Cliente ( Coordenador Marcus Nascimento ) 
-- **Persona 2:** IPEM 
+- **Persona 2:** Bastos
 
 ---
 
