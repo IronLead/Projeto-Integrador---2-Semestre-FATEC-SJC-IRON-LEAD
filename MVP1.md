@@ -1,18 +1,17 @@
 # 📌 MVP - [Sprint 01]
 
 ## 🎯 Objetivo do MVP
-Desenvolver um ambiente de Business Intelligence que integre e padronize dados públicos para análise e visualização interativa, apoiando a tomada de decisão em políticas públicas e na gestão logística.  
+Desenvolver um ambiente de Business Intelligence para veículos pesados, focado na integração e padronização de dados públicos, permitindo análises consistentes e visualizações interativas, com o objetivo de apoiar a tomada de decisões estratégicas em políticas públicas e na gestão logística.
 
 ---
 
 ## 📝 Descrição da Solução
-- Acesso à base públicas.
-- Ambiente de versionamento de projeto bem estruturado.
-- Dados consolidados e armazenados de forma eficiente.
-- Visualização inicial dos dados.
-- Requisitos documentados.
-- Análise de cargas que mais foram documentadas.  
-
+- Acesso estruturado a bases de dados públicas relevantes.
+- Acesso estruturado a bases de dados públicas relevantes.
+- Dados consolidados, tratados e armazenados de forma eficiente.
+- Desenvolvimento de visualizações iniciais para exploração dos dados.
+- Levantamento e documentação clara dos requisitos do projeto.
+- Análise direcionada ao contexto de veículos pesados, com foco logístico e estratégico.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -24,14 +23,14 @@ Desenvolver um ambiente de Business Intelligence que integre e padronize dados p
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                  | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como tomador de decisão em políticas públicas, solicito acessar as bases públicas para obter os dados necessários ao projeto. | Alta       | 5 pontos   |
-| US2 | Como analista de dados, preciso padronizar os formatos, remover erros e preparar os dados para análise. | Alta     | 3 pontos   |
-| US3 | Como tomador de decisão em políticas públicas, desejo que o ambiente de versionamento do projeto seja criado e bem estruturado para garantir controle e rastreabilidade.         | Média      | 5 pontos  |
-| US4 | Como analista de dados, preciso definir como os dados serão consolidados e armazenados de forma eficiente. | Alta    | 3 pontos   |
-| US5 | Como analista de dados, preciso criar uma visualização inicial dos dados para entender padrões e apoiar a definição das próximas análises.   | Alta       | 5 pontos   |
-| US6 | Como analista de dados, quero desenvolver scripts que tratem e organizem os dados para alimentar o dashboard.       | Baixa    | 3 pontos   |
-| US7 | Como tomador de decisão em políticas públicas, preciso que os requisitos estejam documentados e as atividades organizadas para garantir o alinhamento da equipe.   | Alta       | 5 pontos  |
-| US8 | Como analista de logística, desejo identificar quais cargas foram mais movimentadas para análise operacional.      | Média      | 3 pontos   |
+| US1 | Acessar as bases públicas da PRF, DATASUS, DENATRAN e IBGE. | Alta       | 5 pontos   |
+| US2 |  Realizar a "limpeza" das bases, retirando todas as informações que não são tão relevantes. | Alta     | 3 pontos   |
+| US3 | Iniciar a estruturação do dashboard, sempre visando uma navegação intuitiva.         | Média      | 5 pontos  |
+| US4 |  Estruturar o repositório do GitHub e lançar as informações que estão sendo desenvolvidas. | Alta    | 3 pontos   |
+| US5 | Trazer dados gerais sobre os acidentes na primeira tela do dashboard e apresentar os filtros por estado.  | Alta       | 5 pontos   |
+| US6 | Visualizar o número total de acidentes envolvendo veículos pesados ao longo do tempo.       | Baixa    | 3 pontos   |
+| US7 | - Visualizar a quantidade de frota de veículos pesados e o aumento de sinistros fatais ao longo do tempo.  | Alta       | 5 pontos  |
+| US8 |  Inserir as tarefas que estão sendo desenvolvidas dentro do Jira (ou outra ferramenta de gestão)     | Média      | 3 pontos   |
 
 ---
 
