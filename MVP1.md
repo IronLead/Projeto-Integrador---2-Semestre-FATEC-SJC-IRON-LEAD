@@ -57,4 +57,4 @@ Desenvolver um ambiente de Business Intelligence para veículos pesados, focado 
 ---
 
 ## 📂 Anexos / Evidências
--[Video sprint 1](https://drive.google.com/file/d/1o-hVELlJVqoqdQDNNyu_-6bbhGo9IVpt/view?usp=sharing)
+
